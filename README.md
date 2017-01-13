@@ -7,6 +7,6 @@ Treehouse - https://teamtreehouse.com/andrewsfg
 
 Freecodecamp - http://freecodecamp.com/andrewsfg
 
-Goals
+# Goals
 
 JavaScript
