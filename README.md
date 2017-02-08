@@ -15,5 +15,9 @@ JavaScript
 
 More AMP Project
 
+Vue
+
+Sketch
+
 # Books
 Javascript - The Good Parts - reading
